@@ -1,0 +1,25 @@
+# robots.txt for Gomery Marketing
+# https://www.gomerymarketing.com
+
+# Allow all web crawlers full access
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://www.gomerymarketing.com/sitemap.xml
+
+# Crawl-delay (optional, for being polite to servers)
+# Crawl-delay: 10
+
+# Block access to admin or sensitive directories (if any exist)
+# Disallow: /admin/
+# Disallow: /private/
+
+# Allow indexing of all public pages
+Allow: /index.html
+Allow: /services.html
+Allow: /about.html
+Allow: /contact.html
+Allow: /css/
+Allow: /js/
+Allow: /images/
