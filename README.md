@@ -194,7 +194,7 @@ All rights reserved. This website template is for Gomery Marketing use only.
 ## Contact
 
 **Gomery Marketing**
-123 Commerce Street, Suite 200
+215 N Perry St
 Montgomery, AL 36104
 Phone: (334) 555-0123
 Email: hello@gomerymarketing.com
